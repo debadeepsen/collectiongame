@@ -1,1 +1,1 @@
-This is the Readme Markdown file.
+The objective of this game is to score as many points as possible before time runs out.
