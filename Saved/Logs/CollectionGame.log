@@ -5240,3 +5240,80 @@ LogInit: Object subsystem initialized
 [2017.09.26-06.08.45:765][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.09.26-06.08.54:070][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2017.09.26-06.08.54:137][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.11.18:195][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.09.26-06.11.22:344][491]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.22:469][491]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.22:487][491]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.22:528][491]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.09.26-06.11.22:533][491]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.26-06.11.22:540][491]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.09.26-06.11.24:061][570]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.26-06.11.24:061][570]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.26-06.11.24:061][570]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.26-06.11.24:061][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.26-06.11.29:290][883]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.29:309][883]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.09.26-06.11.30:477][952]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.26-06.11.30:477][952]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.26-06.11.30:477][952]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.26-06.11.30:477][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.26-06.11.33:014][104]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.33:032][104]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.09.26-06.11.34:116][168]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.26-06.11.34:116][168]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.26-06.11.34:116][168]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.26-06.11.34:116][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.26-06.11.35:402][245]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.35:422][245]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2017.09.26-06.11.36:446][305]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.26-06.11.36:446][305]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.26-06.11.36:446][305]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.26-06.11.36:446][305]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.26-06.11.38:130][406]LogMaterialEditor: Applying material M_Floor
+[2017.09.26-06.11.38:616][406]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.38:662][406]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.38:714][406]LogMaterial: Missing cached shader map for material M_Floor, compiling. 
+[2017.09.26-06.11.38:788][406]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor, compiling. 
+[2017.09.26-06.11.39:526][406]TextureStreamingBuild: Display: Compiling optional shaders took 0.744 seconds.
+[2017.09.26-06.11.41:924][538]MaterialEditorStats: Base pass shader: 96 instructions
+[2017.09.26-06.11.41:924][538]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.26-06.11.41:924][538]MaterialEditorStats: Texture samplers: 5/16
+[2017.09.26-06.11.41:924][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.26-06.11.44:110][669]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-06.11.44:166][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.11.44:166][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-06.11.44:166][669]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2017, 10:11:44 PM)
+[2017.09.26-06.11.44:166][669]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.26-06.11.44:183][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016817s)
+[2017.09.26-06.11.44:184][669]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.26-06.11.44:184][669]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2017.09.26-06.11.44:185][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018719s)
+[2017.09.26-06.11.44:212][669]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.26-06.11.44:245][669]LogInit: FAudioDevice initialized.
+[2017.09.26-06.11.44:297][669]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.26-06.11.44:306][669]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.09.26-02.11.44
+[2017.09.26-06.11.44:307][669]LogWorld: Bringing up level for play took: 0.008144
+[2017.09.26-06.11.44:316][669]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.635
+[2017.09.26-06.11.44:316][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.11.53:547][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.11.53:628][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.12.17:850][625]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Metal_Chrome.M_Metal_Chrome needed to have new flag set bUsedWithSkeletalMesh !
+[2017.09.26-06.12.17:853][625]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2017.09.26-06.12.25:477][ 64]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-06.12.25:490][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.12.25:490][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-06.12.25:490][ 64]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 25, 2017, 10:12:25 PM)
+[2017.09.26-06.12.25:490][ 64]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.26-06.12.25:505][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015154s)
+[2017.09.26-06.12.25:507][ 64]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.26-06.12.25:507][ 64]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2017.09.26-06.12.25:507][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017378s)
+[2017.09.26-06.12.25:534][ 64]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.26-06.12.25:566][ 64]LogInit: FAudioDevice initialized.
+[2017.09.26-06.12.25:609][ 64]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.26-06.12.25:613][ 64]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.09.26-02.12.25
+[2017.09.26-06.12.25:614][ 64]LogWorld: Bringing up level for play took: 0.003017
+[2017.09.26-06.12.25:617][ 64]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.666
+[2017.09.26-06.12.25:617][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.12.55:590][852]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-06.12.55:665][852]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
