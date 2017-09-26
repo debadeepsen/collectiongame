@@ -1051,3 +1051,57 @@ LogInit: Object subsystem initialized
 [2017.09.26-17.51.54:738][572]LogSavePackage: Save=38.34ms
 [2017.09.26-17.51.54:738][572]LogSavePackage: Moving '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Saved/WB_HUD95A17E6D456394F3416CD8A5D05BFE79.tmp' to '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/UI/WB_HUD.uasset'
 [2017.09.26-17.51.54:752][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/UI/WB_HUD.uasset
+[2017.09.26-17.53.27:953][897]BlueprintLog: New page: Compile Collectible
+[2017.09.26-17.53.36:255][304]BlueprintLog: New page: Compile Collectible
+[2017.09.26-17.54.00:513][662]BlueprintLog: New page: Compile Collectible_Unsafe
+[2017.09.26-17.54.02:551][739]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-17.54.02:594][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.02:594][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-17.54.02:613][739]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 26, 2017, 9:54:02 AM)
+[2017.09.26-17.54.02:613][739]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.26-17.54.02:640][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026976s)
+[2017.09.26-17.54.02:641][739]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.26-17.54.02:641][739]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2017.09.26-17.54.02:641][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028257s)
+[2017.09.26-17.54.02:670][739]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.26-17.54.02:706][739]LogInit: FAudioDevice initialized.
+[2017.09.26-17.54.02:754][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.26-17.54.02:760][739]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.09.26-13.54.02
+[2017.09.26-17.54.02:760][739]LogWorld: Bringing up level for play took: 0.005183
+[2017.09.26-17.54.02:765][739]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.629
+[2017.09.26-17.54.02:766][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.09:455][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.09:540][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.15:992][451]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2017.09.26-17.54.26:298][ 65]BlueprintLog: New page: Compile Collectible_Safe
+[2017.09.26-17.54.30:771][290]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.09.26-17.54.30:811][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.30:812][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.26-17.54.30:812][290]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 26, 2017, 9:54:30 AM)
+[2017.09.26-17.54.30:812][290]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.09.26-17.54.30:836][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024282s)
+[2017.09.26-17.54.30:837][290]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.09.26-17.54.30:837][290]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2017.09.26-17.54.30:837][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025698s)
+[2017.09.26-17.54.30:868][290]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.26-17.54.30:899][290]LogInit: FAudioDevice initialized.
+[2017.09.26-17.54.30:941][290]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.09.26-17.54.30:946][290]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.09.26-13.54.30
+[2017.09.26-17.54.30:947][290]LogWorld: Bringing up level for play took: 0.004505
+[2017.09.26-17.54.30:953][290]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.817
+[2017.09.26-17.54.30:954][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.44:621][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.54.44:716][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.09.26-17.55.04:488][216]LogSavePackage: Save=70.52ms
+[2017.09.26-17.55.04:488][216]LogSavePackage: Moving '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Saved/CollectibleD4C276454EA8599F7A0C6B8000A29A04.tmp' to '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Blueprints/Collectible.uasset'
+[2017.09.26-17.55.04:501][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Blueprints/Collectible.uasset
+[2017.09.26-17.55.04:566][216]LogSavePackage: Save=26.70ms
+[2017.09.26-17.55.04:566][216]LogSavePackage: Moving '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Saved/Collectible_Safe1A92722443B8BD4115FE338E161983D0.tmp' to '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Blueprints/Collectible_Safe.uasset'
+[2017.09.26-17.55.04:578][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Blueprints/Collectible_Safe.uasset
+[2017.09.26-17.55.04:666][216]LogSavePackage: Save=49.95ms
+[2017.09.26-17.55.04:666][216]LogSavePackage: Moving '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Saved/Collectible_Unsafe9AEA2228425C9CE6B0E9F1BEEFF2B62C.tmp' to '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Blueprints/Collectible_Unsafe.uasset'
+[2017.09.26-17.55.04:679][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Blueprints/Collectible_Unsafe.uasset
+[2017.09.26-17.55.04:961][216]LogSavePackage: Save=140.04ms
+[2017.09.26-17.55.04:961][216]LogSavePackage: Moving '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Saved/ThirdPersonExampleMap39EB7A714800D1A9C7C062A3782B7212.tmp' to '../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.09.26-17.55.04:974][216]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Debadeep Sen/Documents/Unreal Projects/CollectionGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.09.26-17.55.05:000][216]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.317
